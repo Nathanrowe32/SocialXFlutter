@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "770888281013",
+    "project_id": "socialxdata-63e71",
+    "storage_bucket": "socialxdata-63e71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770888281013:android:ba15ddf5fa2a1fd54b87fc",
+        "android_client_info": {
+          "package_name": "com.example.social_x"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770888281013-9pvphrabp2p4h35bjr0ejgmr7cqmgnb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAihdF3dyhjypgC4o5Ki5ZlXLKDNFFpz9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770888281013-9pvphrabp2p4h35bjr0ejgmr7cqmgnb8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "770888281013-n2ilu5uhsv1r3jnd5k1gb8en37ohk3tf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.NathanRowe.SocialX"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
